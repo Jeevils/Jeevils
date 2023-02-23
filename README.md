@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeevils
+- 👋 Hi, I’m Stephan
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any and all Python projects as i seek to expand my repoitiore and CV
